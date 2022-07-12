@@ -1,4 +1,4 @@
 - Hi
-- person in glasshead
-- brain damage
-- I’m looking to KISS 💞️ ...
+- learning code
+- dyslexic
+- LETS KISS ...
